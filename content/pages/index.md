@@ -16,6 +16,7 @@ sections:
     background_image: images/1.svg
     background_image_opacity: 15
     background_image_size: auto
+    background_image_position: center center
   - type: grid_section
     grid_items:
       - title: 2 Days
