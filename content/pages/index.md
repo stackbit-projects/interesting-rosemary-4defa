@@ -17,6 +17,7 @@ sections:
     background_image_opacity: 100
     background_image_size: auto
     background_image_position: center center
+    has_border: true
   - type: grid_section
     grid_items:
       - title: 2 Days
