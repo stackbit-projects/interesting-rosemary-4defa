@@ -19,6 +19,7 @@ sections:
     background_image_position: center center
     has_border: true
     media_width: sixty
+    image: images/golden (3).png
   - type: grid_section
     grid_items:
       - title: 2 Days
