@@ -18,6 +18,7 @@ sections:
     background_image_size: auto
     background_image_position: center center
     has_border: true
+    media_width: sixty
   - type: grid_section
     grid_items:
       - title: 2 Days
